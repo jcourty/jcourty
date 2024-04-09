@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jcourty
-- 👀 I’m interested in ...
+- 👀 I’m interested in murder (kidding)
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm INTP
 
