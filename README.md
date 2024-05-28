@@ -6,11 +6,6 @@
 
 ![ThisIsFineFireGIF](https://github.com/jcourty/jcourty/assets/159031215/183331bc-81fc-4703-94ce-2b1bbbc4fd62)
 
-### [**Jeux Pour deux**](https://github.com/jcourty/jeuxPour2)
-
-***Description*** : this project was to learn basic python by making an "app" that was launch in the computer terminal where two people can play basic games like tic tac toe, the substraction game,etc... It does possess scores rating and pseudo inputs.
-
-***language used*** : python
 
 
 <!---
