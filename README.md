@@ -7,7 +7,7 @@
 ![ThisIsFineFireGIF](https://github.com/jcourty/jcourty/assets/159031215/183331bc-81fc-4703-94ce-2b1bbbc4fd62)
 
 
-### Language 
+### Languages
 - Python
 - C
 - Java
