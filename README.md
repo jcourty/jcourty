@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @jcourty--
-- 👀 I’m interested in murder (kidding)
-- 🌱 I’m currently learning computer science
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm INTP
-- 🔧I’m currently working on https://github.com/mgorce4/scrabble
-
-
+# Hi, I’m @jcourty
+## A lost child in computer science
+- Pronouns: She/her
+- I'm INTP
+- I’m currently working on [scrabble](https://github.com/mgorce4/scrabble)
 
 ![ThisIsFineFireGIF](https://github.com/jcourty/jcourty/assets/159031215/183331bc-81fc-4703-94ce-2b1bbbc4fd62)
+
+[Jeux Pour deux](https://github.com/jcourty/jeuxPour2)
+
+_language used_: python
 
 
 <!---
