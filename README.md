@@ -2,7 +2,6 @@
 ## A lost child in computer science
 - Pronouns: She/her
 - I'm INTP
-- I’m currently working on [scrabble](https://github.com/mgorce4/scrabble)
 
 ![ThisIsFineFireGIF](https://github.com/jcourty/jcourty/assets/159031215/183331bc-81fc-4703-94ce-2b1bbbc4fd62)
 
