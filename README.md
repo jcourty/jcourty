@@ -15,7 +15,7 @@
 - Html/Css
 - My SQL
 - Postgre SQL
-- linux	excel
+- linux
 
 <!---
 jcourty/jcourty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
