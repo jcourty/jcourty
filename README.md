@@ -2,7 +2,7 @@
 ## A lost child in computer science
 - Pronouns: She/her
 - INTP
-- Second-year Computer Science student at [the University Institute of Technology](https://www.iut.unilim.fr/) of Limoges.
+- Third-year Computer Science student at [the University Institute of Technology](https://www.iut.unilim.fr/) of Limoges.
 
 ![ThisIsFineFireGIF](https://github.com/jcourty/jcourty/assets/159031215/183331bc-81fc-4703-94ce-2b1bbbc4fd62)
 
